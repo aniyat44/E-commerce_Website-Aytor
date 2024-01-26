@@ -1,0 +1,622 @@
+/* xxl */
+@media (min-width:1400px){}
+
+
+/* xl */
+@media (min-width:1200px) and (max-width:1399.98px){
+    
+    #help_line .help_box {
+        padding: 12px 5px;
+    }
+    #about_banner .back {
+        width: 1036px;
+        height: 428px;
+    }
+    #about_banner .slide-box {
+        width: 265px;
+        height: 240px;
+    }
+    footer .footer_bottom .open_time_list ul li {
+        font-size: 14px;
+    }
+
+    #shop_details .shop_details_info select {
+        padding: 10px 369px 10px 20px;
+    }
+}
+
+
+/* lg */
+@media (min-width:992px) and (max-width:1199.98px){
+    #hero .hero_box ,
+    #hero .hero_box_d {
+        height: 450px;
+    }
+    #hero .hero_box h2,
+    #hero .hero_box_d h2 {
+        font-size: 45px;
+        line-height: 50px;
+    }
+    #video .video_item{
+        position: relative;
+        width: 100%;
+    }
+    #video{
+        padding: 0;
+    }
+    #video .video_info{
+        padding: 20px 0 50px;
+    }
+
+    #help_line .main_box {
+        padding: 21px 0px;
+    }
+
+    #about_banner .about_banner_info h2 {
+        font-size: 30px;
+    }
+    #about_banner .about_banner_info p {
+        font-size: 14px;
+    }
+    #about_banner .about_banner_info ul li {
+        line-height: 20px;
+        font-size: 14px;
+    }
+    #about_banner .about_banner_info hr {
+        margin: 12px 0;
+    }
+    #about_banner .back {
+        width: 870px;
+        height: 375px;
+    }
+    #about_banner .slide-box {
+        width: 250px;
+        height: 250px;
+    }
+    #help_line .main_box h5{
+        font-size: 18px;
+    }
+    #help_line .main_box p{
+        font-size: 14px;
+    }
+    #help_line .help_icon {
+        width: 50px;
+        height: 50px;
+        line-height: 57px;
+        font-size: 27px;
+    }
+    #about_help_line .help_box {
+        padding: 12px 90px;
+    }
+    #about_help_line .help_box:nth-child(2) {
+        border: none;
+    }
+    #blog .post .post_box .post_info h5 a {
+        font-size: 14px !important;
+    }
+    #information .info_left h3 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    #information .contact_box {
+        padding: 25px;
+    }
+
+    #para ul li button {
+        font-size: 18px;
+        padding: 15px 55px;
+    }
+    #shop_details .shop_details_info select {
+        padding: 7px 290px 7px 20px;
+    }
+
+    #error .error-info p {
+        padding: 10px 320px 40px;
+    }
+}
+
+
+/* md */
+@media (min-width:768px) and (max-width:991.98px){
+   
+
+    #hero .hero_box ,
+    #hero .hero_box_d {
+        height: 350px;
+    }
+    #hero .hero_box h2,
+    #hero .hero_box_d h2 {
+        font-size: 37px;
+        line-height: 39px;
+    }
+    #hero .hero_box p,
+    #hero .hero_box_d p {
+        font-size: 14px;
+    }
+    #banner .sm_1 {
+        margin: 0 10px 21px 0;
+    }
+    #banner .sm_2{
+        margin: 0 0 21px 10px;
+    }
+    #arrival h3 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    
+    #video .video_item{
+        position: relative;
+        width: 100%;
+    }
+    #video{
+        padding: 0;
+    }
+    #video .video_info{
+        padding: 20px 0 50px;
+    }
+
+    #about_banner .back {
+        width: 636px;
+        height: 294px;
+    }
+    #about_banner .slide-box {
+        width: 250px;
+        height: 250px;
+        top: 259px;
+    }
+    #about_banner .about_banner_info h2 {
+        padding-top: 50px;
+    }
+    #help_line .main_box .help_box{
+        padding: 10px 0;
+    }
+    .back_to_top {
+        width: 65px;
+        height: 65px;
+        line-height: 53px;
+        font-size: 22px;
+        border: 8px solid var(--light-color);
+    }
+
+    #all_hero {
+        height: 300px;
+    }
+    #all_hero h1 {
+        font-size: 44px;
+    }
+    #about_banner .back {
+        width: 715px;
+        height: 968px;
+    }
+    #about_banner .about_banner_info {
+        padding-left: 0;
+    }
+    #blog .ads_img img{
+        width: 100%;
+    }
+
+    #cart_box .cart_body_bottom input {
+        padding: 5px 356px 5px 15px;
+    }
+    #cart_box .cart_body_bottom .upgrade_btn{
+        text-align: center;
+    }
+    #cart_box .cart_body_bottom .upgrade_btn button  {
+        margin-top: 20px;
+    }
+    #cart_box thead th,
+    #cart_box .cart_body tr th  {
+        font-size: 13px;
+    }
+    #cart_box .cart_body tr th input {
+        width: 35px;
+    }
+    #cart_box .cart_body tr th button {
+        width: 28px;
+        line-height: 26px;
+    }
+
+    #information .contact_box {
+        padding: 25px;
+    }
+
+    #blog .reply a {
+        margin-bottom: 18px;
+    }
+    #para ul li button {
+        font-size: 18px;
+        padding: 15px 18px;
+    }
+
+    #wishlist_box thead td, #wishlist_box tbody th {
+        padding: 10px 10px;
+    }
+
+    #cart_box .cart_body tr th {
+        padding: 14px 8px;
+        font-size: 16px;
+    }
+
+    #error .error-info p {
+        padding: 10px 206px 40px;
+    }
+}
+
+
+/* sm */
+@media (min-width:576px) and (max-width:767.98px){
+    #hero .hero_box ,
+    #hero .hero_box_d {
+        height: 260px;
+    }
+    #hero .hero_box h2,
+    #hero .hero_box_d h2 {
+        font-size: 37px;
+        line-height: 41px;
+    }
+    #hero .hero_box_d p,
+    #hero .hero_box h6,
+    #hero .hero_box_d h6, 
+    #hero .hero_box p{
+        display: none;
+    }
+    #hero .hero_box a,
+    #hero .hero_box_d a {
+        margin: 10px 0 0 0;
+    }
+    #banner .sm_1 {
+        margin: 0 0 21px;
+    }
+    #banner .sm_2{
+        margin: 0 0 21px;
+    } 
+    #arrival h3 {
+        font-size: 25px;
+    }
+    #arrival p,
+    #video .video_info p,
+    #help_line .main_box p,
+    #video .video_info h6 {
+        font-size: 14px;
+    }
+    #arrival a{
+        font-size: 16px;
+        padding: 10px 20px;
+    }
+    #video .video_item{
+        position: relative;
+        width: 100%;
+    }
+    #video{
+        padding: 0;
+    }
+    #video .video_info{
+        padding: 20px 0 50px;
+    }
+    #video .video_info h6,
+    #video .video_info p {
+        font-size: 14px;
+    }
+    #video .video_info h3 {
+        font-size: 25px;
+    }
+    #video .video_item a {
+        width: 60px;
+        height: 60px;
+        line-height: 65px;
+        font-size: 20px;
+    }
+    #video .video_item a::after, #video .video_item a::before, #blog .box a::after, #blog .box a::before {
+        width: 60px;
+        height: 60px;
+    }
+
+    #deal_day .deal_day_box_item h3 {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    #deal_day .deal_day_box_item p {
+        font-size: 14px;
+    }
+    #help_line .main_box {
+        padding: 20px 0;
+    }
+    #help_line .main_box .help_box{
+        padding: 10px 0;
+    }
+    #help_line .main_box h5{
+        font-size: 17px;
+    }
+    #help_line .help_icon {
+        width: 60px;
+        height: 60px;
+        line-height: 67px;
+        font-size: 30px;
+    }
+    footer .footer_bottom h4 {
+        padding: 20px 0 10px 2px;
+    }
+    .back_to_top {
+        width: 58px;
+        height: 58px;
+        line-height: 47px;
+        font-size: 22px;
+        border: 8px solid var(--light-color);
+    }
+
+    
+    #all_hero {
+        height: 290px;
+    }
+    #all_hero h1 {
+        font-size: 40px;
+    }
+    #all_hero p {
+        font-size: 14px;
+    }
+    #about_banner .slide-box {
+        width: 280px;
+        height: 370px;
+        top: 30px;
+    }
+    #about_banner .back {
+        width: 535px;
+        height: 880px;
+    }
+    #about_banner .about_banner_info {
+        padding: 50px 0 0 0;
+    }
+    #about_banner .about_banner_info h2 {
+        font-size: 26px;
+    }
+    #help_line .main_box {
+        transform: translateY(90%);
+    }
+    #leadership h2 {
+        font-size: 26px;
+    }
+    #instagram h2 {
+        font-size: 28px;
+    }
+    #blog .ads_img img{
+        width: 100%;
+    }
+
+    #shop_details .shop_details_info select {
+        padding: 7px 350px 7px 20px;
+    }
+    #para ul li button {
+        font-size: 18px;
+        padding: 15px 18px;
+    }
+    #para ul li button {
+        margin-bottom: 5px;
+    }
+
+    #cart_box .cart_body_bottom input {
+        margin-right: 0px;
+        width: 100%;
+    }
+    #cart_box .cart_body_bottom button{
+        margin: 10px 0;
+    }
+
+    #error .error-info p {
+        padding: 10px 110px 40px;
+    }
+}
+
+
+
+@media (max-width:575.98px){
+    #hero .hero_box ,
+    #hero .hero_box_d {
+        height: 145px;
+    }
+    #hero .hero_box h2,
+    #hero .hero_box_d h2 {
+        font-size: 21px;
+        line-height: 22px;
+    }
+    #hero .hero_box p,
+    #hero .hero_box_d p,
+    #hero .hero_box h6,
+    #hero .hero_box_d h6 {
+        display: none;
+    }
+    #hero .hero_box a,
+    #hero .hero_box_d a {
+        padding: 5px 25px;
+        margin: 0;
+
+    }
+    #banner .sm_1 {
+        margin: 0 10px 21px 0;
+    }
+    #banner .sm_2{
+        margin: 0 0 21px 10px;
+    }
+    #arrival{
+        padding: 60px;
+    }
+    #arrival a {
+        font-size: 16px;
+        padding: 10px 15px;
+    }
+    #arrival h3 {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    #arrival p{
+        font-size: 14px;
+    }#video .video_item{
+        position: relative;
+        width: 100%;
+    }
+    #video{
+        padding: 0;
+    }
+    #video .video_info{
+        padding: 20px 0 50px;
+    }
+    #video .video_info h6,
+    #video .video_info p {
+        font-size: 14px;
+    }
+    #video .video_info h3 {
+        font-size: 25px;
+    }
+    #video .video_item a {
+        width: 50px;
+        height: 50px;
+        line-height: 55px;
+        font-size: 18px;
+    }
+    #video .video_item a::after, #video .video_item a::before, #blog .box a::after, #blog .box a::before {
+        width: 50px;
+        height: 50px;
+    }
+    #deal_day h2 {
+        font-size: 30px;
+    }
+    #deal_day .timer .timer_box {
+        padding: 0px 25px;
+    }
+    #deal_day .deal_day_box_slider .deal_day_box_item {
+    padding: 25px 10px;
+    }
+    #deal_day .deal_day_box_item h3 {
+    font-size: 30px;
+    line-height: 36px;
+    }
+    #deal_day .deal_day_box_item h4 {
+    font-size: 14px;
+    }
+    #deal_day .deal_day_box_item p {
+    font-size: 14px;
+    }
+    #deal_day .deal_day_box_item a {
+    padding: 10px 18px;
+    }
+    #help_line .main_box {
+    padding: 0;
+    }
+    #help_line .help_box {
+    padding: 12px 0 12px 0px;
+    }
+    #help_line .help_box h5 {
+    font-size: 18px;
+    }
+    #help_line .help_box p{
+        font-size: 14px;
+    }
+    #help_line .help_icon {
+    width: 50px;
+    height: 50px;
+    line-height: 55px;
+    font-size: 25px;
+    }
+    footer .footer_top .footer_logo{
+        margin: 50px 0 50px;
+    }
+    footer .footer_bottom h4{
+        margin-top: 20px;
+    }
+    .back_to_top {
+        width: 50px;
+        height: 50px;
+        line-height: 45px;
+        font-size: 20px;
+        border: 5px solid var(--light-color);
+    }
+
+    #all_hero {
+        height: 199px;
+    }
+    #all_hero h1 {
+        font-size: 34px;
+    }
+    #all_hero p {
+        font-size: 12px;
+    }
+    #about_banner .slide-box {
+        border: 9px solid var(--gray-color);
+        padding: 90px;
+        width: 250px;
+        height: 236px;
+        top: 0;
+    }
+    #about_banner .about_banner_info {
+        padding: 30px 0 0;
+    }
+    #about_banner .about_banner_info h2 {
+        font-size: 25px;
+        line-height: 38px;
+    }
+    #about_banner .back {
+        height: 872px;
+    }
+    .about_help_line {
+        transform: translateY(-50%);
+    }
+    #leadership h2 {
+        font-size: 30px;
+        line-height: 38px;
+    }
+    #instagram h2 {
+        font-size: 28px;
+    }
+    #blog .post .post_box .post_info h5 a {
+        font-size: 14px;
+    }
+
+    #information .contact_box {
+        padding: 20px;
+        margin: 10px auto;
+    }
+    #touch .touch_left h3 {
+        font-size: 24px;
+        line-height: 40px;
+    }
+
+    #blog .info .title h3 a {
+        font-size: 27px;
+    }
+
+    #shop_details .shop_details_info select {
+        padding: 7px 126px 7px 20px;
+    }
+    #para ul li button {
+        font-size: 16px;
+        line-height: 50px;
+        height: 50px;
+        min-width: 210px;
+        padding: 0 20px;
+        margin-bottom: 1px;
+    }
+
+    #cart_box .cart_body_bottom input {
+        padding: 5px 85px 5px 15px;
+    }
+    #cart_box .cart_body_bottom button{
+        color: var(--light-color);
+        text-align: center;
+        font-weight: 600;
+        line-height: 28px;
+        padding: 5px 20px;
+        margin-right: 5px;
+        background-color: var(--primary-color-light);
+        border: none;
+        transition: .4s;
+        margin: 10px 0;
+    }
+
+    #checkout_info h2 {
+        font-size: 26px;
+    }
+
+    #error .error-info p {
+        padding: 10px 0px 40px;
+    }
+}
+
